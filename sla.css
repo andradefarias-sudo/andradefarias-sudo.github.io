@@ -1,0 +1,32 @@
+.html{
+  color: blue;
+  text-decoration: none;
+  transition: color 0.1s ease; 
+}
+body{
+  text-align: center;
+
+}
+
+a:hover {
+  color:pink ;
+  text-decoration: none;
+}
+body{
+  background-image: url(https://cdn.myportfolio.com/107cb7fb-5b77-4c02-908b-a433dd1108db/712d5fbd-5da4-4af6-a536-9f668e048c97_rw_1920.png?h=35a81daee4bc0a17ce3e4d174917ce5a);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a{
+  color:#4A2E1B;
+}
+a{
+  text-decoration: none ;
+}
+div {
+  border: 2px solid #4A2E1B;
+  border-radius: 12px;
+  padding: 15px;
+  
+  display: inline-block; 
+}
